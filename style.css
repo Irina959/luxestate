@@ -75,7 +75,7 @@ nav{
 	top: 210px;
 }
 .intro-contacts{
-	background-color: #ffcc01;
+	background-color: #8987C0;
 	max-width: 590px;
 	position: absolute;
 	right: 210px;
@@ -118,7 +118,7 @@ nav{
 .square{
 	width: 200px;
 	height: 200px;
-	background-color: #f6f5f4;
+	background-color: #8987C0;
 	margin: 30px;
 	display: flex;
 	justify-content: сenter;
@@ -156,7 +156,7 @@ nav{
 }
 .card-info .money{
 	font-size: 18px;
-	color: #ffcc01;
+	color: #8987C0;
 }
 .card-info i{
 	margin-right: 8px;
@@ -238,7 +238,7 @@ nav{
 	left: -30px;
 }
 .stepblock:hover{
-	background: #ffcc01;
+	background: #8987C0;
 	color: #fff;
 }
 
@@ -328,7 +328,7 @@ nav{
 	color: #000;
 }
 .social i:hover{
-	color: #ffcc01;
+	color: #8987C0;
 }
 .social i:last-child{
 	margin-right: 18px;
@@ -346,7 +346,7 @@ nav{
 	padding-left: 25px;
 }
 .agent-name{
-	color: #ffcc01;
+	color: #8987C0;
 }
 .agent-cards{
 	display: flex;
@@ -363,7 +363,7 @@ nav{
 .location{
 	font-size: 18px;
 	padding: 30px 87px 35px 55px;
-	background: #ffcc01;
+	background: #8987C0;
 	display: inline-block;
 }
 .location i{
