@@ -559,7 +559,8 @@ hr{
 		padding: 10px;
 	}
 	.stats-text h2{
-		font-size: 30px;
+		font-size: 30px; 
+		margin-left: 5%;
 		margin-bottom: 10px;
 	}
 	.stats-text p{
@@ -572,7 +573,7 @@ hr{
 	}
 	
 	.apart h2{
-		margin-left: 5px;
+		margin-left: 5%;
 	}
 	.cards{
 	grid-template-columns: repeat(1, 1fr);
@@ -618,7 +619,6 @@ hr{
 	}
 	.serv-text{
 		width: 100%;
-		margin-left: 5%;
 	}
 	.agents h2, p{
 		margin-left: 5%;
@@ -632,7 +632,7 @@ hr{
 		margin-top: 10px;
 	}
 	.add{
-		padding: 5px 0px;
+		padding-top: 10px;
 	}
 	.add-line{
 		flex-direction: column;
