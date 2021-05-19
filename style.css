@@ -118,7 +118,7 @@ nav{
 .square{
 	width: 200px;
 	height: 200px;
-	background-color: #8987C0;
+	background-color: №fff;
 	margin: 30px;
 	display: flex;
 	justify-content: сenter;
@@ -127,7 +127,7 @@ nav{
 }
 .stats-square{
 	font-size: 40px;
-	color: #ffcc01;
+	color: #8987C0;
 	margin-bottom: 15px;
 }
 .square-text{
@@ -193,7 +193,7 @@ nav{
 	width: 115px;
 	border: none;
 	height: 78px;
-	background: #ffcc01;
+	background: #8987C0;
 	font-size: 15px;
 	margin-left: -4px;
 	border-top-right-radius: 4px;
