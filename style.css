@@ -121,7 +121,7 @@ nav{
 	background-color: #E1DFE0;
 	margin: 30px;
 	display: flex;
-	justify-content: сenter;
+	justify-content: center;
 	align-items: center;
 	flex-direction: column;
 }
@@ -412,7 +412,7 @@ nav{
 }
 footer{
 	background: #1f373d;
-	color: white;
+	color: #fff;
 	padding-top: 50px;
 	padding-bottom: 80px;
 }
@@ -458,7 +458,7 @@ hr{
 	margin-bottom: 35px;
 }
 .footer-link a{
-	color: white;
+	color: #fff;
 	text-decoration: none;
 	font-size: 13px;
 	margin-bottom: 20px;
@@ -484,7 +484,7 @@ hr{
 		transition: all .1s linear;
 	}
 	.toggle:hover{
-		background: #d3a900;
+		background: #8987C0;
 	}
 	#checkbox-menu:checked + label .touch li{
 		opacity: 1;
