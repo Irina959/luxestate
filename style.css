@@ -118,7 +118,7 @@ nav{
 .square{
 	width: 200px;
 	height: 200px;
-	background-color: №fff;
+	background-color: #E1DFE0;
 	margin: 30px;
 	display: flex;
 	justify-content: сenter;
@@ -480,7 +480,7 @@ hr{
 		line-height: 40px;
 		width: 100%;
 		color: #000;
-		background: #ffcc01;
+		background: #8987C0;
 		transition: all .1s linear;
 	}
 	.toggle:hover{
@@ -570,7 +570,10 @@ hr{
 	.square{
 		height: 140px;
 	}
-
+	
+	.apart h2{
+		margin-left: 5px;
+	}
 	.cards{
 	grid-template-columns: repeat(1, 1fr);
 	grid-template-rows: repeat(6, 1fr);
@@ -612,6 +615,7 @@ hr{
 	}
 	.serv-text{
 		width: 100%;
+		margin-left: 5px;
 	}
 	.agent-cards{
 		flex-direction: column;
