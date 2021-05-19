@@ -607,7 +607,7 @@ hr{
 		margin-left: 5%;
 		margin-bottom: 15px;
 	}
-	.services h2, p{
+	.services h2, h4, p{
 		margin-left: 5%;
 	}
 	.serv-container{
@@ -633,6 +633,7 @@ hr{
 	}
 	.add{
 		padding-top: 10px;
+		padding-bottom: 50px;
 	}
 	.add-line{
 		flex-direction: column;
