@@ -64,6 +64,7 @@ nav{
 	margin-top: 25px;
 	display: flex;
 	justify-content: flex-end;
+	position: relative;
 }
 .intro-img{
 	background-image: url(img/room.jpg);
@@ -73,15 +74,15 @@ nav{
 .intro .intro-text{
 	position: absolute;
 	font-size: 62px;
-	right: 800px;
-	top: 210px;
+	left: 4%;
+    	top: 40%;
 }
 .intro-contacts{
 	background-color: #8987C0;
 	max-width: 590px;
 	position: absolute;
-	right: 210px;
-	top: 634px;
+	right: -0;
+        bottom: 0;
 	display: flex;
 	justify-content: space-between;
 	padding: 30px 50px;
