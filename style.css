@@ -5,6 +5,7 @@
 }
 button, a, li {
 	cursor: pointer;
+}
 body, html{
 	overflow-x: hidden;
 }
@@ -519,8 +520,8 @@ hr{
 		align-content: center;
 	}
 	.menu li a.logo{
-	font-size: 21px;
-	margin-right: 0px;
+	        font-size: 21px;
+	        margin-right: 0px;
 	}
 		.menu li a.contacts{
 		margin-right: 0px;
@@ -694,6 +695,7 @@ hr{
 		padding-right: 5%;
 	}
 }
+
 
 
 
